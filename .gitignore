@@ -1,0 +1,14 @@
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Byte-compiled / caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Runtime logs & local env
+activity_log.txt
+.env
+*.log
